@@ -1,4 +1,4 @@
-# 
+# VIP Android Studio presets for Mac OS | Updated Android Studio presets for PC Windows. Featuring dev-containers and code-analysis — optimized for maximum performance on every platform.
 
 
 
